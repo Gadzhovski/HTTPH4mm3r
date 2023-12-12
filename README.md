@@ -21,20 +21,6 @@ This tool is designed strictly for educational and testing purposes. Unauthorize
 - Python 3.x
 - Modules: socket, threading, argparse, os, random, time, urlparse
 
-## Installation
-
-Clone the repository:
-
-```bash
-git clone https://your-repository-url
-```
-
-Navigate to the script directory:
-
-```bash
-cd http-h4mm3r
-```
-
 ## Usage
 
 Run the script using Python and specify the necessary arguments:
@@ -42,6 +28,9 @@ Run the script using Python and specify the necessary arguments:
 ```bash
 python http_h4mm3r.py -u <TARGET_URL> [-c <CONCURRENT_REQUESTS>] [-p <PORT>] [-d <DELAY>]
 ```
+## Screenshots
+
+![Test Screenshot]([URL_OF_YOUR_IMAGE](https://github.com/Gadzhovski/HTTPH4mm3r/blob/main/test.png))
 
 Arguments:
 - `-u` or `--url`: Target URL for the attack (required).
