@@ -30,7 +30,7 @@ python http_h4mm3r.py -u <TARGET_URL> [-c <CONCURRENT_REQUESTS>] [-p <PORT>] [-d
 ```
 ## Screenshots
 
-![Test Screenshot]([URL_OF_YOUR_IMAGE](https://github.com/Gadzhovski/HTTPH4mm3r/blob/main/test.png))
+![Test Screenshot]([URL_OF_YOUR_IMAGE](main/test.png))
 
 Arguments:
 - `-u` or `--url`: Target URL for the attack (required).
