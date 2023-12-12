@@ -57,8 +57,12 @@ python http_h4mm3r.py -u http://example.com -c 10 -d 0.1
 
 ## License
 
-[Your License Information]
+This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ## Disclaimer
 
 This tool is intended for educational and research purposes only. Any misuse of this software will not be the responsibility of the author or any affiliates.
+
+## Credits
+
+Project developed by Radoslav Gadzhovski as part of coursework for the University of Greenwich.
